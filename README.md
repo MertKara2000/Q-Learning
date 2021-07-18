@@ -12,4 +12,4 @@ Later the program puts random traps and tries to find shortest path
 
 After from a certain amount of try the shortest path will be drawn.
 Later program saves traps to the engel.txt file. Episode via
-cost and episode via steps graphs will be plotted and program terminates.
+cost and episode via steps graphs will be plotted and program ends.
